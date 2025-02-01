@@ -17,7 +17,7 @@
 
 🔧 **Мой стек**:  
 `Python` `Django` `PostgreSQL` `Docker` `REST API` `Celery` `Redis` `Git`  
-`Nginx` `WSL/Linux` `SSH` `Aiogram` `Delphi` *(да, это мой скрытый талант!)*  
+`Nginx` `WSL/Linux` `SSH` `Aiogram` `Delphi`
 
 🏆 **Горжусь**:  
 - 🥉 **FloriAI** — 3 место среди 70 IT-проектов (генерация букетов через Kandinsky API)  
