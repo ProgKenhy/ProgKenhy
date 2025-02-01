@@ -1,5 +1,49 @@
 <p align="left">
-### 👋 Привет! Я Черешенко Александр <br>**Backend-разработчик | Python | AI & Data Enthusiast**  <br>*Калининград, Россия | 19 лет | Учусь на прикладной математике*  <br><br>✨ **Профессионально создаю баги с 2020 года (и героически исправляю их с 2021!)  **  <br>📚 **Сейчас углубляюсь в**:  <br>- Разработку Telegram-ботов на AIOgram  <br>- Микросервисы на FastAPI (в планах)  <br>- Алгоритмы для AI/Data Science  <br><br>🎯 **Мои цели**:  <br>- 🚀 Разработать модульного бота с микросервисной архитектурой, RabbitMQ и Redis для обработки 1000+ запросов в минуту. <br>- 👥 Попасть на стажировку в команду мечты<br>- 🔍 Погрузиться в мир API взаимодействия.  <br><br>🔧 **Мой стек**:  <br>`Python` `Django` `PostgreSQL` `Docker` `REST API` `Celery` `Redis` `Git`  <br>`Nginx` `WSL/Linux` `SSH` `Aiogram` `Delphi` *(да, это мой скрытый талант!)*  <br><br>🏆 **Горжусь**:  <br>- 🥉 **FloriAI** — 3 место среди 70 IT-проектов (генерация букетов через Kandinsky API)  <br>- 🛒 Запустил интернет-магазин с нуля (бэкенд + деплой)  <br>- 🎓 Самообучение: 1500+ часов курсов и документации (Stepik, YouTube, Django REST Framework, etc)<br>- 🐳 С нуля освоил Docker Compose по официальной документации, внедрив в 2 коммерческих проекта<br><br>🎸 **Когда не пишу код**:  <br>- Играю на гитаре<br>- Качаюсь в зале  <br>- Планирую путешествия (пока виртуально 😄)  <br><br>📊 **C++ → Python**  <br>Раньше я погружался в низкоуровневую магию C++, чтобы понять, как всё устроено.  <br>Сейчас перешёл на Python — он стал моим основным инструментом для Backend-разработки и AI.  <br>Но C++ научил меня писать эффективный код — это было круто!  <br><br>📫 **Давайте работать вместе!**  <br>- Telegram: [@Kenhhy](https://t.me/kenhhy)  <br>- Почта: sashok20053@gmail.com  <br>- VK: [Александр](https://vk.com/spiritofire)<br><br>> "Хочу, чтобы мой код не только решал задачи, но и делал чью-то жизнь проще.  <br>> Ищу команду, где смогу расти и приносить реальную пользу!" <br><br>🌟 **P.S.**: Хотите узнать больше? Загляните в мой [репозиторий Resume](https://github.com/ProgKenhy/Resume)!</p>
+### 👋 Привет! Я Черешенко Александр  
+**Backend-разработчик | Python | AI & Data Enthusiast**  
+*Калининград, Россия | 19 лет | Учусь на прикладной математике*  
+
+✨ **Профессионально создаю баги с 2020 года (и героически исправляю их с 2021!)**  
+📚 **Сейчас углубляюсь в**:  
+- Разработку Telegram-ботов на **AIOgram**  
+- Микросервисы на **FastAPI** (в планах)  
+- Алгоритмы для **AI/Data Science**  
+
+🎯 **Мои цели**:  
+- 🚀 Разработать модульного бота с микросервисной архитектурой (**RabbitMQ**, **Redis**) для обработки 1000+ запросов в минуту  
+- 👥 Попасть на стажировку в команду мечты  
+- 🔍 Погрузиться в мир API-взаимодействия и высоконагруженных систем  
+
+🔧 **Мой стек**:  
+`Python` `Django` `PostgreSQL` `Docker` `REST API` `Celery` `Redis` `Git`  
+`Nginx` `WSL/Linux` `SSH` `Aiogram` `Delphi` *(да, это мой скрытый талант!)*  
+
+🏆 **Горжусь**:  
+- 🥉 **FloriAI** — 3 место среди 70 IT-проектов (генерация букетов через Kandinsky API)  
+- 🛒 Запустил интернет-магазин с нуля (бэкенд + деплой)  
+- 🎓 Самообучение: 1500+ часов курсов и документации (**Stepik**, **YouTube**, **Django REST Framework**, etc)  
+- 🐳 С нуля освоил **Docker Compose** по официальной документации, внедрив в 2 коммерческих проекта  
+
+📊 **C++ → Python**  
+Раньше я погружался в низкоуровневую магию C++, чтобы понять, как всё устроено.  
+Сейчас Python — мой основной инструмент для Backend-разработки и AI.  
+Но C++ научил меня писать эффективный код — это бесценно!  
+
+🎸 **Когда не пишу код**:  
+- Играю на гитаре (Metallica — моя любовь!)  
+- Качаюсь в зале  
+- Планирую путешествия (пока виртуально 😄)  
+
+📫 **Давайте работать вместе!**  
+- ✉️ [Почта](mailto:sashok20053@gmail.com)  
+- 📱 [Telegram](https://t.me/kenhhy)  
+- 🌐 [VK](https://vk.com/spiritofire)  
+
+> "Хочу, чтобы мой код не только решал задачи, но и делал чью-то жизнь проще.  
+> Ищу команду, где смогу расти и приносить реальную пользу!"  
+
+🌟 **P.S.**: Хотите узнать больше? Загляните в мой [репозиторий Resume](https://github.com/ProgKenhy/Resume)!  
+</p>
 
 ###
 
@@ -37,5 +81,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ProgKenhy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ProgKenhy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
